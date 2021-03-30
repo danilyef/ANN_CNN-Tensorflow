@@ -21,7 +21,7 @@ The main idea of CNNs is to use local receptive fields which are applied on all 
 
 
 
-##### Dataset:
+### Dataset:
 
 We will be using:
 1. Fashion-MNIST dataset for FC Network.
